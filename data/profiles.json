@@ -1,0 +1,305 @@
+{
+ "updated": "2026-10-14",
+ "source": "examples",
+ "partners": [
+  {
+   "id": "brightline",
+   "example": true,
+   "company": "Brightline Ops",
+   "color": "#6161FF",
+   "hq": "United Kingdom",
+   "countries": [
+    "Ireland",
+    "Spain"
+   ],
+   "regions": [
+    "EMEA"
+   ],
+   "languages": [
+    "English",
+    "Spanish"
+   ],
+   "size": "11-30",
+   "products": [
+    "Work management",
+    "CRM",
+    "monday AI"
+   ],
+   "services": [
+    "Implementation",
+    "AI agents and Sidekick",
+    "Automations and workflows",
+    "Training and enablement"
+   ],
+   "known": [
+    "AI agents and automations",
+    "Sidekick and AI adoption",
+    "Training and change management"
+   ],
+   "promise": "We turn busy service teams into AI-first teams on monday.",
+   "why": "Fixed-scope sprints, one named consultant, and weekly adoption numbers.",
+   "about": "We help nonprofits and care providers run intake, triage and reporting on monday. Our team has delivered more than 120 monday projects since 2021. Most projects go live in under 4 weeks.",
+   "industries": [
+    "Non-Profit & Philanthropy",
+    "Health Care Providers",
+    "Wellness & Social Services"
+   ],
+   "clientTypes": [
+    "Nonprofits",
+    "Small businesses"
+   ],
+   "sizes": [
+    "11-50 employees",
+    "51-200 employees"
+   ],
+   "uc": [
+    {
+     "t": "Volunteer intake on autopilot",
+     "i": "Non-Profit & Philanthropy",
+     "r": "6 hours saved a week",
+     "b": "An agent reads sign-up forms, routes each volunteer to the right program and books the onboarding call."
+    },
+    {
+     "t": "Clinic referrals in one place",
+     "i": "Health Care Providers",
+     "r": "2x faster triage",
+     "b": "Referrals from email and web forms land on one board with an SLA timer and an AI summary for the duty nurse."
+    },
+    {
+     "t": "Board reporting without spreadsheets",
+     "i": "Non-Profit & Philanthropy",
+     "r": "Monthly report in 10 minutes",
+     "b": "A dashboard and a Sidekick prompt turn program boards into the board-of-directors report."
+    }
+   ],
+   "strengths": {
+    "AI agents and automations": 5,
+    "Integrations and APIs": 3,
+    "CRM and sales process": 3,
+    "Project and resource management": 4,
+    "Change management and adoption": 5,
+    "Dashboards and reporting": 4
+   },
+   "consult": true,
+   "consultPerMonth": 6,
+   "pricing": {
+    "fixed": 2500,
+    "hourly": 150
+   },
+   "certified": 3,
+   "team": [
+    [
+     "Dana Levi",
+     "AI solutions lead"
+    ],
+    [
+     "Tom Reyes",
+     "Delivery manager"
+    ],
+    [
+     "Ana Ruiz",
+     "Automation specialist"
+    ]
+   ],
+   "tier": "Authorized",
+   "vetted": {
+    "certified": true,
+    "fde": true
+   }
+  },
+  {
+   "id": "northfield",
+   "example": true,
+   "company": "Northfield Digital",
+   "color": "#00A38D",
+   "hq": "United States",
+   "countries": [
+    "Canada"
+   ],
+   "regions": [
+    "NAM"
+   ],
+   "languages": [
+    "English"
+   ],
+   "size": "3-10",
+   "products": [
+    "CRM",
+    "monday AI"
+   ],
+   "services": [
+    "Implementation",
+    "Integrations",
+    "Data migration",
+    "Dashboards and reporting"
+   ],
+   "known": [
+    "CRM and sales pipelines",
+    "Data migration from other tools",
+    "Integrations and APIs"
+   ],
+   "promise": "Your sales pipeline on monday CRM in 3 weeks, data included.",
+   "why": "We migrate your old CRM data first, so your team starts on day one with full history.",
+   "about": "We set up monday CRM for real estate and construction firms with 10 to 200 people. We have moved more than 40 teams off spreadsheets and older CRMs.",
+   "industries": [
+    "Real Estate Industries",
+    "Construction & General Contracting",
+    "Engineering Services"
+   ],
+   "clientTypes": [
+    "Small businesses",
+    "Mid-market companies"
+   ],
+   "sizes": [
+    "11-50 employees",
+    "51-200 employees",
+    "201-1,000 employees"
+   ],
+   "uc": [
+    {
+     "t": "Leads from 6 sources in one pipeline",
+     "i": "Real Estate Industries",
+     "r": "31% more leads followed up",
+     "b": "Portal, website and phone leads flow into one CRM board, scored by an AI column and assigned automatically."
+    },
+    {
+     "t": "Bids and subcontractors tracked end to end",
+     "i": "Construction & General Contracting",
+     "r": "Bid prep cut from 5 days to 2",
+     "b": "Every bid has its documents, deadlines and subcontractor quotes on one item, with reminders."
+    }
+   ],
+   "strengths": {
+    "AI agents and automations": 3,
+    "Integrations and APIs": 5,
+    "CRM and sales process": 5,
+    "Project and resource management": 3,
+    "Change management and adoption": 3,
+    "Dashboards and reporting": 4
+   },
+   "consult": true,
+   "consultPerMonth": 4,
+   "pricing": {
+    "fixed": 4000,
+    "retainer": 900
+   },
+   "certified": 2,
+   "team": [
+    [
+     "Mike Chen",
+     "Founder, CRM architect"
+    ],
+    [
+     "Sara Patel",
+     "Data migration lead"
+    ]
+   ],
+   "tier": "Authorized",
+   "vetted": {
+    "certified": true,
+    "fde": false
+   }
+  },
+  {
+   "id": "atelier",
+   "example": true,
+   "company": "Atelier Nube",
+   "color": "#FB275D",
+   "hq": "Mexico",
+   "countries": [
+    "Colombia",
+    "Spain"
+   ],
+   "regions": [
+    "LATAM",
+    "EMEA"
+   ],
+   "languages": [
+    "Spanish",
+    "English",
+    "Portuguese"
+   ],
+   "size": "31-50",
+   "products": [
+    "Work management",
+    "Campaigns",
+    "monday AI"
+   ],
+   "services": [
+    "Implementation",
+    "Vibe apps",
+    "Automations and workflows",
+    "Managed services"
+   ],
+   "known": [
+    "Marketing and campaign operations",
+    "Vibe apps and custom tools",
+    "Project and portfolio management"
+   ],
+   "promise": "Agencies that ship campaigns faster, with AI doing the busywork.",
+   "why": "Spanish-first team, bilingual delivery, and a managed service after go-live.",
+   "about": "We work with marketing agencies and in-house brand teams across Latin America and Spain. We build campaign workflows, client portals and custom Vibe apps on top of them.",
+   "industries": [
+    "Advertising & Marketing",
+    "Media Production & Distribution",
+    "Apparel & Luxury"
+   ],
+   "clientTypes": [
+    "Agencies and professional services",
+    "Mid-market companies"
+   ],
+   "sizes": [
+    "11-50 employees",
+    "51-200 employees"
+   ],
+   "uc": [
+    {
+     "t": "Client approvals in a Vibe app",
+     "i": "Advertising & Marketing",
+     "r": "Approval rounds down from 4 to 2",
+     "b": "Clients review and approve creative in a branded Vibe app, and feedback lands on the right task."
+    },
+    {
+     "t": "Campaign calendar for 12 brands",
+     "i": "Apparel & Luxury",
+     "r": "Launch dates hit 95% on time",
+     "b": "One portfolio view across brands, with an agent that flags at-risk launches every morning."
+    }
+   ],
+   "strengths": {
+    "AI agents and automations": 4,
+    "Integrations and APIs": 3,
+    "CRM and sales process": 2,
+    "Project and resource management": 5,
+    "Change management and adoption": 4,
+    "Dashboards and reporting": 4
+   },
+   "consult": false,
+   "pricing": {
+    "fixed": 6000,
+    "hourly": 95,
+    "retainer": 1500
+   },
+   "certified": 5,
+   "team": [
+    [
+     "Lucía Gómez",
+     "Managing partner"
+    ],
+    [
+     "Rafael Torres",
+     "Vibe developer"
+    ],
+    [
+     "Inés Duarte",
+     "Project lead"
+    ]
+   ],
+   "tier": "Authorized",
+   "vetted": {
+    "certified": true,
+    "fde": true
+   }
+  }
+ ]
+}

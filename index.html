@@ -183,7 +183,7 @@ function card(p){
   return `<button type="button" class="card" data-id="${p.id}">
     <div class="art" style="background:linear-gradient(135deg,${p.color}1f,${p.color}55)">
       <div class="badges">${p.example?'<span class="badge ex">Example</span>':''}${p.consult?'<span class="badge ok">Free 20-min AI consult</span>':''}${p.vetted.certified?`<span class="badge">${p.certified} monday-certified</span>`:''}</div>
-      <span class="mono" style="color:${p.color}">${esc(ini(p.company))}</span>
+      ${p.logo?`<img src="${esc(p.logo)}" alt="${esc(p.company)} logo" style="max-height:64px;max-width:70%;object-fit:contain">`:`<span class="mono" style="color:${p.color}">${esc(ini(p.company))}</span>`}
     </div>
     <div class="meta">
       <h3>${esc(p.company)}<span class="tier">${esc(p.tier)}</span></h3>
@@ -237,7 +237,7 @@ function viewProf(id){
   <button type="button" class="back" id="back">← All partners</button>
   <div class="top">
     <div class="idcard">
-      <div class="avatar" style="background:${c}">${esc(ini(p.company))}</div>
+      <div class="avatar" style="background:${p.logo?'#fff':c};${p.logo?'border:1px solid var(--line)':''}">${p.logo?`<img src="${esc(p.logo)}" alt="" style="width:72%;height:72%;object-fit:contain">`:esc(ini(p.company))}</div>
       <div class="idmain">
         <div class="verify">${p.vetted.certified?`<span class="vchip">${p.certified} monday-certified people, verified</span>`:''}${p.vetted.fde?'<span class="vchip">Approved for AI consultations</span>':''}${p.example?'<span class="vchip self">Example profile</span>':''}${S('Roy\'s vetting columns')}</div>
         <h1>${esc(p.company)}<span class="tier">${esc(p.tier)}</span></h1>

@@ -1,0 +1,83 @@
+{
+ "updated": "2026-10-14",
+ "source": "Partner Profile Applications board 18435081010, Approved only",
+ "partners": [
+  {
+   "id": "p13290506490",
+   "example": false,
+   "company": "TEST 8 - publish test",
+   "website": "brightline-ops-test.io",
+   "color": "#00A38D",
+   "logo": "assets/_test-logos/13290506490-3317221697.png",
+   "hq": "United Kingdom",
+   "countries": [
+    "Ireland"
+   ],
+   "regions": [
+    "EMEA"
+   ],
+   "languages": [
+    "English",
+    "Spanish"
+   ],
+   "size": "11-30",
+   "products": [
+    "Work management",
+    "monday AI (credits",
+    "Vibe",
+    "agents",
+    "Sidekick",
+    "MCP)"
+   ],
+   "services": [
+    "Implementation",
+    "AI agents and Sidekick"
+   ],
+   "known": [
+    "AI agents and automations",
+    "Training and change management"
+   ],
+   "promise": "Publish test, not a real partner.",
+   "why": "Testing the pipeline.",
+   "about": "Pipeline test profile.",
+   "industries": [
+    "Non-Profit & Philanthropy"
+   ],
+   "clientTypes": [
+    "Nonprofits"
+   ],
+   "sizes": [
+    "11-50 employees"
+   ],
+   "uc": [
+    {
+     "t": "Test use case",
+     "i": "Non-Profit & Philanthropy",
+     "r": "1 test passed",
+     "b": "Checks the publish flow."
+    }
+   ],
+   "strengths": {
+    "AI agents and automations": 4
+   },
+   "consult": true,
+   "consultPerMonth": 3,
+   "pricing": {
+    "fixed": 2000,
+    "hourly": 120
+   },
+   "certified": 0,
+   "team": [
+    [
+     "Test Person",
+     "Tester"
+    ]
+   ],
+   "tier": "Authorized",
+   "vetted": {
+    "certified": false,
+    "fde": false
+   }
+  }
+ ]
+}
